@@ -128,3 +128,8 @@ p{
     text-decoration: none;
   }
 
+@media (min-width: 1441px){
+    .bottom_line{
+        margin-top:200px
+    }
+}
